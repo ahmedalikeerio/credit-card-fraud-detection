@@ -1,0 +1,16 @@
+{
+  "average_precision_pr_auc": 0.7795511007090702,
+  "roc_auc": 0.9255768780083288,
+  "threshold": 0.33997688055397374,
+  "precision": 0.9512195121951219,
+  "recall": 0.75,
+  "f1": 0.8387096774193549,
+  "balanced_accuracy": 0.8749765643309116,
+  "accuracy": 0.9996488928420955,
+  "true_negatives": 42668,
+  "false_positives": 2,
+  "false_negatives": 13,
+  "true_positives": 39,
+  "selected_model": "Extra trees",
+  "validation_selected_threshold": 0.33997688055397374
+}
