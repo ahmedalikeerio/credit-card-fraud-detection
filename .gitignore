@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.dist/
+build/
+
+# Virtual environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Local data and trained artifacts
+/data/raw/*
+!/data/raw/README.md
+/models/*
+!/models/README.md
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/

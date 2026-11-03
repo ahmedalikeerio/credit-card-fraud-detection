@@ -1,0 +1,1 @@
+The trained `fraud_detector.joblib` is created here when training finishes. Model artifacts are ignored by Git; regenerate locally by running the training command in the root README.

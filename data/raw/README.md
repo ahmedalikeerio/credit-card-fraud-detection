@@ -1,0 +1,1 @@
+Download `creditcard.csv` from the Kaggle dataset linked in the root README and place it in this folder. The CSV is ignored by Git, so it will not be pushed to GitHub.
